@@ -54,6 +54,6 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <tr>
     <td><a href="https://www.facebook.com/profile.php?id=100009034623362&mibextid=LQQJ4d" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amr Ibrahim" height="30" width="40" /></a></td>
     <td><a href="https://www.instagram.com/amr_ibrahim70/?igshid=OGQ5ZDc2ODk2ZA%3D%3D" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amr_ibrahim70" height="30" width="40" /></a></td>
-    <td><a href="https://www.linkedin.com/in/amr-ibrahim-a5772026a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amr Ibrahim/" height="30" width="40" /></a></td>
+    <td><a href="https://www.linkedin.com/in/amribrahimwebdev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amr Ibrahim/" height="30" width="40" /></a></td>
   </tr>
 </table>
