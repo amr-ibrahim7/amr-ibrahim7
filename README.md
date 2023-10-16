@@ -57,3 +57,44 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
     <td><a href="https://www.linkedin.com/in/amribrahimwebdev/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amr Ibrahim/" height="30" width="40" /></a></td>
   </tr>
 </table>
+
+<br>
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amr-ibrahim7&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ibrahim7&layout=compact&theme=radical" alt="urboifox" height="165">
+</p>
+
+</div>
+
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=amr-ibrahim7&theme=radical&hide_border=true" alt="urboifox" width="420"/>
+</p>
+</details>
+
+<details>
+<summary><b>🏆 Github Trophies</b></summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amr-ibrahim7&theme=radical&no-frame=true&no-bg=true" alt="urboifox" />
+</p>
+</details>
+
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amr-ibrahim7&show_icons=true&theme=radical&count_private=true" alt="urboifox" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amr-ibrahim7&layout=compact&theme=radical" alt="urboifox" height="165">
+</p>
+</details>
